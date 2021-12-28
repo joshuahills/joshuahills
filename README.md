@@ -18,18 +18,4 @@ As part of my job and various side projects, I have experience using a wide vari
 - AWS
 - Linux
 
-I also have some experience from university in C and C++, Haskell, MATLAB and R. 
-
-# FAQs
-
-**Favourite language?**
-
-TypeScript. It extends JS to a modern OOP language while mantaining the ease of JS, as well of some of its quirks.
-
-**Least favourite language?**
-
-Python. Aside from easy data manipulation and short scripts, any Python projects I've worked on quickly become messy. I also think Python enables and even encourages lazy software development with Pip packages for everything. 
-
-# Get in touch
-
-I'm available on my linked [Twitter account](https://twitter.com/joshhills99), [LinkedIn](https://www.linkedin.com/in/josh-hills-0340b8110/), or via [email](mailto:josh@chimpbyte.co.uk).
+I also have some experience from university in C and C++, Haskell, MATLAB and R.
