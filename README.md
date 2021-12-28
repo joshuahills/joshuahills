@@ -1,6 +1,6 @@
 # About Me
 
-I'm a Graduate Software Engineer at a distinguished engineering company, currently working on a train station management system. I graduated from Coventry University in 2021 with a bachelors degree in Computer Science.
+I'm a Graduate Software Engineer at Telent. I graduated from Coventry University in 2021 with a bachelors degree in Computer Science.
 The area of software development I enjoy most is full-stack web development as it requires working in different languages and technologies and provides the most opportunities for me to learn new ones.
 
 # Technologies
