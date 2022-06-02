@@ -1,7 +1,6 @@
 # About Me
 
-I'm a Graduate Software Engineer at Telent. I graduated from Coventry University in 2021 with a bachelors degree in Computer Science.
-The area of software development I enjoy most is full-stack web development as it requires working in different languages and technologies and provides the most opportunities for me to learn new ones.
+I'm a Graduate Software Engineer at Telent. I graduated from Coventry University in 2021 with a bachelor's degree in Computer Science.
 
 # Technologies
 
