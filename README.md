@@ -1,6 +1,6 @@
 # About Me
 
-I'm a Graduate Software Engineer at Telent. I graduated from Coventry University in 2021 with a bachelor's degree in Computer Science.
+I'm a Graduate Software Engineer. I graduated from Coventry University in 2021 with a bachelor's degree in Computer Science.
 
 # Technologies
 
